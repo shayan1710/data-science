@@ -1,0 +1,16 @@
+From 23-02-2026 to 23-03-2026.
+
+Non-negotiable
+    - Daily min 2.5 hrs learning session
+    - Goal is to improve, upskill and knowledge.
+    - To support and improve the life of the people I love and my own.
+    - Daily Solve atleast 3 problem question.
+    - Self analysis on growth and future projections
+
+
+
+Day 1 : 23-02-2026, monday
+    - Created this repo to track the daily progress.
+    - Will be Following codewithharry Data Science and python course course.
+        DS : https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course
+        Py : https://www.codewithharry.com/courses/complete-python-bootcamp-learn-python-from-scratch
